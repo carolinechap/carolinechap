@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hello, I'm Caroline Chapeau!
 
-<!--
-**carolinechap/carolinechap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 32 years old **passionate developer** specializing in development. I've been passionate about computer since i'm young. Over the pas few years, i'm working in a web agency in Lyon (FR).
+I love writing clean, efficient, and maintainable code while embracing best practices.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌐 Personal Website: [caroline-chapeau.com](https://caroline-chapeau.com)
+- 🎯 Expertise: PHP, web security, eco-design, and clean code principles.
+- 💡 Philosophy: Embrace challenges, learn continuously, and deliver excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Skills
+- Languages: PHP, TypeScript, JavaScript, HTML, CSS
+- Frameworks: Drupal, Symfony, VueJS
+- Currently experimenting Python, Machine learning and AI
+
+## 🎉 When I'm Not Coding...
+
+- 🏀 Sports: Basketball, badminton, and boxing
+- 🎮 Video games
+- 🤖 Domotics (home automation with HomeAssistant)
+- 🧁 Baking and experimenting in my kitchen
+- ✈️ Exploring new destinations and planning my next adventure
+
+ 
+ ## 📫 Let's Connect!
+Feel free to explore my repositories and connect with me:
+
+- 🌐 Website: caroline-chapeau.com
+- 📧 Email: [contact@caroline-chapeau.com] (contact@caroline-chapeau.com)
+- 💬 LinkedIn: [c-chapeau](https://www.linkedin.com/in/c-chapeau/)
