@@ -26,5 +26,5 @@ I love writing clean, efficient, and maintainable code while embracing best prac
 Feel free to explore my repositories and connect with me:
 
 - 🌐 Website: caroline-chapeau.com
-- 📧 Email: [contact@caroline-chapeau.com] (contact@caroline-chapeau.com)
+- 📧 Email: [contact@caroline-chapeau.com]
 - 💬 LinkedIn: [c-chapeau](https://www.linkedin.com/in/c-chapeau/)
